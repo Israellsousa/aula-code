@@ -7,4 +7,4 @@
  
  * git push - envia do local para o remoto;
  * git pull - remoto para local;
- * git fetch - trás apenas o que foi alterado.
+ * git fetch - trás apenas o que foi alterado. 
